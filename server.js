@@ -35,12 +35,12 @@ const MODEL_MAPPING = {
   'gpt-4o': 'deepseek-ai/deepseek-v3.1',
   'claude-3-opus': 'openai/gpt-oss-120b',
   'claude-3-sonnet': 'openai/gpt-oss-20b',
-  'gemini-pro': 'moonshotai/kimi-k2-thinking',
+  'gemini-pro': 'moonshotai/kimi-k2.6', //
   'GLM': 'z-ai/glm4.7',
-  'GLM-5': 'z-ai/glm-5.1',
-  'deepseek-v4': 'deepseek-ai/deepseek-v4-pro',
-  'deepseek-v4f': 'deepseek-ai/deepseek-v4-flash',
-  'gemini': 'google/gemma-4-31b-it'
+  'GLM-5': 'z-ai/glm-5.1', //
+  'deepseek-v4': 'deepseek-ai/deepseek-v4-pro', //
+  'deepseek-v4f': 'deepseek-ai/deepseek-v4-flash', //
+  'gemini': 'google/gemma-4-31b-it' //updated
 };
 
 // Root endpoint
