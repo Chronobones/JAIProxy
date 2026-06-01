@@ -41,7 +41,7 @@ const MODEL_MAPPING = {
   'deepseek-v4': 'deepseek-ai/deepseek-v4-pro', //
   'deepseek-v4f': 'deepseek-ai/deepseek-v4-flash', //
   'gemini': 'google/gemma-4-31b-it', //updated
-  'gemini-pro': 'google/gemma-3n-e4b-it' //
+  'gemini-3': 'google/gemma-3n-e4b-it' //
 };
 
 // Root endpoint
