@@ -40,7 +40,8 @@ const MODEL_MAPPING = {
   'GLM-5': 'z-ai/glm-5.1', //
   'deepseek-v4': 'deepseek-ai/deepseek-v4-pro', //
   'deepseek-v4f': 'deepseek-ai/deepseek-v4-flash', //
-  'gemini': 'google/gemma-4-31b-it' //updated
+  'gemini': 'google/gemma-4-31b-it', //updated
+  'gemini-pro': 'google/gemma-3n-e4b-it' //
 };
 
 // Root endpoint
