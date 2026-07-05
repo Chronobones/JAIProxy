@@ -37,7 +37,7 @@ const MODEL_MAPPING = {
   'claude-3-sonnet': 'openai/gpt-oss-20b',
   'gemini-pro': 'moonshotai/kimi-k2.6', //
   'GLM': 'z-ai/glm4.7',
-  'GLM-5': 'z-ai/glm-5.1', //
+  'GLM-5': 'z-ai/glm-5.2', //
   'deepseek-v4': 'deepseek-ai/deepseek-v4-pro', //
   'deepseek-v4f': 'deepseek-ai/deepseek-v4-flash', //
   'gemini': 'google/gemma-4-31b-it', //updated
