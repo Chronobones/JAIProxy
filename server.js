@@ -39,7 +39,7 @@ const MODEL_MAPPING = {
   'GLM': 'z-ai/glm4.7',
   'GLM-5': 'z-ai/glm-5.2', //
   'deepseek-v4': 'deepseek-ai/deepseek-v4-pro', //
-  'deepseek-v4f': 'deepseek-ai/deepseek-v4-flash', //
+  'deepseek-v4f': 'deepseek-ai/deepseek-v4-flash-0731', //
   'gemini': 'google/gemma-4-31b-it', //updated
   'gemini-3': 'google/gemma-3n-e4b-it', //
   'gemini-3t': 'google/gemma-3n-e2b-it',
