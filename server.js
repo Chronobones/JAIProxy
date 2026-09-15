@@ -38,7 +38,7 @@ const MODEL_MAPPING = {
   'gemini-pro': 'moonshotai/kimi-k3', //
   'openai': 'openai/gpt-oss-120b', //
   'GLM': 'z-ai/glm4.7',
-  'GLM-5': 'z-ai/glm-5.2', //
+  'GLM-5': 'z-ai/glm-5.3', //
   'deepseek-v4': 'deepseek-ai/deepseek-v4-pro-0813', //
   'deepseek-v4f': 'deepseek-ai/deepseek-v4-flash-0731', //
   'gemini': 'google/gemma-4-31b-it', //updated
