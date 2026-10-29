@@ -45,7 +45,8 @@ const MODEL_MAPPING = {
   'gemini-3': 'google/gemma-3n-e4b-it', //
   'gemini-3t': 'google/gemma-3n-e2b-it',
   'diffused': 'google/diffusiongemma-26b-a4b-it',
-  'qwen': 'qwen/qwen3.5-397b-a17b'
+  'qwen': 'qwen/qwen3.5-397b-a17b',
+  'mistral': 'mistralai/mistral-large-4-1t-a52b'
 };
 
 // Root endpoint
